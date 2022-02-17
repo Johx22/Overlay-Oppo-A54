@@ -4,6 +4,7 @@
     <dimen name="status_bar_padding_end">45.0px</dimen>
     <dimen name="status_bar_height_landscape">72.0px</dimen>
     <dimen name="status_bar_height_portrait">72.0px</dimen>
+    <dimen name="quick_qs_offset_height">48.0dip</dimen>
     <dimen name="keyguard_lockscreen_pin_margin_left">40.0dip</dimen>
     <item type="dimen" name="status_bar_header_height_keyguard">@dimen/keyguard_lockscreen_pin_margin_left</item>
     <item type="dimen" name="keyguard_carrier_text_margin">@dimen/status_bar_padding_start</item>
