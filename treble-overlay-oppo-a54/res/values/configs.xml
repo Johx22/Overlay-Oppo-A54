@@ -45,5 +45,5 @@
     <bool name="config_wifi_dual_band_support">true</bool>
     <bool name="config_automatic_brightness_available">true</bool>
 
-    <string name="config_mainBuiltInDisplayCutout">M -38,0 L -38,56 L 38,56 L 38,0 Z</string>
+    <string name="config_mainBuiltInDisplayCutout">M -360,0 L -360,72 L -256,72 L -256,0 Z</string>
 </resources>
