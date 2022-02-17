@@ -40,7 +40,7 @@
         <item>255</item>
     </integer-array>
 
-    <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="config_useDevInputEventForAudioJack">false</bool>
     <bool name="config_showNavigationBar">true</bool>
     <bool name="config_wifi_dual_band_support">true</bool>
     <bool name="config_automatic_brightness_available">true</bool>
